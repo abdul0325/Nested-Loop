@@ -1,5 +1,6 @@
-import College from "./College";
-import Students from "./Students";
+import College from "./NestedLoop/College";
+import Students from "./NestedLoop/Students";
+
 function App() {
   const collegeData = [
     {
